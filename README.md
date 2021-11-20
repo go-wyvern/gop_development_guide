@@ -18,7 +18,7 @@
 * [第6章 抽象语法树](chapter6/README.md)
 * [第7章 编译器概念](chapter7/README.md)
 * [第8章 中间文件](chapter8/README.md)
-* [第9章 GO+ 编译器](chapter8/README.md)
+* [第9章 Go+ 编译器](chapter8/README.md)
 * [第9章 Go 编译器](chapter9/README.md)
 * [第10章 CGO 编译原理](chapter10/README.md)
 * [第11章 import Python 实现](chapter11/README.md)
