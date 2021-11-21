@@ -11,17 +11,18 @@
 本指南将会涉及一下知识点：
 
 * [第1章 词法分析](chapter1/README.md)
-* [第2章 表达式](chapter2/README.md)
-* [第3章 语句](chapter3/README.md)
-* [第4章 通用声明](chapter4/README.md)
-* [第5章 函数声明](chapter5/README.md)
-* [第6章 抽象语法树](chapter6/README.md)
-* [第7章 编译器概念](chapter7/README.md)
-* [第8章 中间文件](chapter8/README.md)
-* [第9章 GO+ 编译器](chapter8/README.md)
-* [第9章 Go 编译器](chapter9/README.md)
-* [第10章 CGO 编译原理](chapter10/README.md)
-* [第11章 import Python 实现](chapter11/README.md)
+* [第2章 基础面值与标识符](chapter2/README.md)
+* [第3章 表达式](chapter3/README.md)
+* [第4章 语句](chapter4/README.md)
+* [第5章 通用声明](chapter5/README.md)
+* [第6章 函数声明](chapter6/README.md)
+* [第7章 抽象语法树](chapter7/README.md)
+* [第8章 编译器概念](chapter8/README.md)
+* [第9章 中间文件](chapter9/README.md)
+* [第10章 GO+ 编译器](chapter10/README.md)
+* [第11章 Go 编译器](chapter11/README.md)
+* [第12章 CGO 编译原理](chapter12/README.md)
+* [第13章 import Python 实现](chapter13/README.md)
 
 ## 版权
 

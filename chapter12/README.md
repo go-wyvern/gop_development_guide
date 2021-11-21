@@ -1,1 +1,1 @@
-# import python 实现
+# CGO 编译原理
